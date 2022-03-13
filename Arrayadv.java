@@ -19,7 +19,7 @@ public class Arrayadv {
         void func2(){    
             System.out.println();
             String a = "Anne Hathaway";
-            System.out.println("\t\tCrush is:\s"+a+"\n");
+            System.out.println("Crush is:"+a+"\n");
             System.out.println("\t\tCrush is:"+a+"\n");
         }
 
