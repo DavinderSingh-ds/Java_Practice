@@ -13,6 +13,6 @@ public class Exc5 {
          number /= 10;
 
      }   
-     System.out.println("\nNumber of digits excluding 5 are :- "+count+"\n");
+     System.out.println("\nNumber of digits excluding 5 are : "+count+"\n");
     }
 }
