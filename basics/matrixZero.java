@@ -1,3 +1,4 @@
+//matrix zero problem
 public class matrixZero {
     static void setZeroes(int matrix[][]){
         int rows = matrix.length, cols = matrix[0].length;
